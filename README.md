@@ -14,7 +14,7 @@ The database (`RetailDB`) was built in **SQL Server** using a normalized relatio
 
 ### 💻 Technologies Used
 * **Python (Google Colab):** Data generation (using `Faker`), cleaning, and EDA.
-* * **Plotly:** Advanced interactive visualizations for customer and promotion analysis.
+* * **Plotly & matplotlib:** Advanced interactive visualizations for branches , customer and promotion analysis.
 * **SQL Server:** Database hosting, schema creation, and query execution.
 * **Power BI:** Interactive multi-page dashboard modeling (Star Schema) and advanced DAX measures.
 
