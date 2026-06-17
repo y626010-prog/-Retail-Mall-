@@ -1,2 +1,21 @@
-# -Retail-Mall-
-Comprehensive Retail Mall Data Analysis project. Features database modeling (Star Schema), synthetic data generation via Python, SQL querying, and an interactive Power BI dashboard for business insight
+# 🛒 Retail Mall End-to-End Data Analysis & BI Solution
+
+### 💡 Key Insights
+
+* **The Branch 3 Enigma:** Although Branch 3 generated the lowest sales and net profits due to its foreign market nature (differing from Arab country branches), it maintained a highly competitive **Profit Margin** close to other branches. This indicates a strong potential for future growth with targeted focus.
+* **Branch 3 Demographics & Top Categories:** Analysis revealed that the majority of customers in Branch 3 are **female**, and the highest-performing category is **Electronics**. This serves as a clear strategic advantage to leverage for future marketing and product stocking.
+* **Re-evaluating Promotional Effectiveness:** Data showed that products with active promotions did not drive higher sales or profit margins compared to regularly priced items. This highlights an immediate need to restructure the promotional and discounting strategy to better align with customer behavior.
+  
+## 🛠️ 1. Database Design & Tech Stack
+The database (`RetailDB`) was built in **SQL Server** using a normalized relational schema with **8 interconnected tables**, optimized for transactional storage and analytical querying.
+
+### 💻 Technologies Used
+* **Python (Google Colab):** Data generation (using `Faker`), cleaning, and EDA.
+* * **Plotly:** Advanced interactive visualizations for customer and promotion analysis.
+* **SQL Server:** Database hosting, schema creation, and query execution.
+* **Power BI:** Interactive multi-page dashboard modeling (Star Schema) and advanced DAX measures.
+
+---
+
+
+
